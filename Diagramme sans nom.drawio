@@ -1,9 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T11:51:24.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" version="21.1.8" etag="EGeqxZM_hF9l4obRBZ1v" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T12:00:51.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="jMYre-w51H_WpYhWMULU" version="21.1.8" type="github">
   <diagram name="Page-1" id="wgrk6S5nRZcHMJpSFBIV">
-    <mxGraphModel>
+    <mxGraphModel dx="1394" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pvugn4LxKU0_r8Y4LYPX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="pvugn4LxKU0_r8Y4LYPX-1" target="pvugn4LxKU0_r8Y4LYPX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pvugn4LxKU0_r8Y4LYPX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="pvugn4LxKU0_r8Y4LYPX-1" target="pvugn4LxKU0_r8Y4LYPX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pvugn4LxKU0_r8Y4LYPX-1" value="Recette" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pvugn4LxKU0_r8Y4LYPX-2" value="Categorie" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="270" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pvugn4LxKU0_r8Y4LYPX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="pvugn4LxKU0_r8Y4LYPX-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvugn4LxKU0_r8Y4LYPX-4" value="Appatien" style="swimlane;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pvugn4LxKU0_r8Y4LYPX-8" value="ingredion" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="750" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pvugn4LxKU0_r8Y4LYPX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="pvugn4LxKU0_r8Y4LYPX-9" target="pvugn4LxKU0_r8Y4LYPX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pvugn4LxKU0_r8Y4LYPX-9" value="est compssé" style="swimlane;whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="140" y="540" width="130" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
